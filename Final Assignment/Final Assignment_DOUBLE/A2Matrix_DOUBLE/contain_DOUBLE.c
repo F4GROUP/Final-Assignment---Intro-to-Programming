@@ -1,7 +1,8 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "A2Matrix_DOUBLE.h"
+
+//Check if the Matrix contain the other Matrix or not
 int contain_DOUBLE(double m1[30][30],double m2[30][30],int R1,int C1,int R2,int C2)
 {
     int eql(double A, double B);

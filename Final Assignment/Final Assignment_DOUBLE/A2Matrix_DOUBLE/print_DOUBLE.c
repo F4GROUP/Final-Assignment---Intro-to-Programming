@@ -1,5 +1,6 @@
-
 #include "A2Matrix_DOUBLE.h"
+
+//Print the matrix to the screen
 void print_DOUBLE(double matrix[30][30],int R, int C)
 {
     int i,j;
