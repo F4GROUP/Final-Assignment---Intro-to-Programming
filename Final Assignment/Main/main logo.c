@@ -9,6 +9,7 @@ void main_logo(int X1, int Y1)
 {
     void gotoxy(int x,int y);
     //welcome logo
+    system("cls");
     gotoxy(X1,Y1+1); printf("##     ##    ###    ######## ########  #### ##     ##");
     gotoxy(X1,Y1+2); printf("###   ###   ## ##      ##    ##     ##  ##   ##   ##");
     gotoxy(X1,Y1+3); printf("#### ####  ##   ##     ##    ##     ##  ##    ## ##");
@@ -19,5 +20,5 @@ void main_logo(int X1, int Y1)
     gotoxy(X1,Y1+8); printf("A project from Master C");
     gotoxy(X1,Y1+10);printf("Press enter to begin");
     getch();
-    system("cls");
+
 }
