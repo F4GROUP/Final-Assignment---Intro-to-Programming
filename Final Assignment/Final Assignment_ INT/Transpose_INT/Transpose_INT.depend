@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1527353830 source:d:\onedrive\projects\codeblocks\final assignment\transpose_int\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527354006 source:d:\onedrive\projects\codeblocks\final assignment\transpose_int\transpose_int.c
+	<stdio.h>
+	<stdlib.h>
+
+1525336477 source:d:\onedrive\projects\codeblocks\final assignment\enterindex_int\enterindex_int.c
+
+1525336853 source:d:\onedrive\projects\codeblocks\final assignment\enterindex_int\print_int.c
+

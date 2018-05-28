@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1525336477 source:d:\onedrive\projects\codeblocks\final assignment\enterindex_int\enterindex_int.c
+
+1525336853 source:d:\onedrive\projects\codeblocks\final assignment\enterindex_int\print_int.c
+
+1527361640 source:d:\onedrive\projects\codeblocks\final assignment\relationfactor_int\divisionfactor_int.c
+
+1527361209 source:d:\onedrive\projects\codeblocks\final assignment\relationfactor_int\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527361859 source:d:\onedrive\projects\codeblocks\final assignment\relationfactor_int\relationfactor_int.c
+
+1527361640 source:d:\onedrive\projects\codeblocks\final assignment\relationfactor_int\subtractionfactor_int.c
+
+1527360452 source:d:\onedrive\projects\codeblocks\final assignment\relationfactor_int\additionfactor_int.c
+
+1527361859 source:d:\onedrive\projects\codeblocks\final assignment\relationfactor_int\multiplicationfactor_int.c
+	<stdio.h>
+	<stdlib.h>
+

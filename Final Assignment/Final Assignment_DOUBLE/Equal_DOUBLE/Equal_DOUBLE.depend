@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1527424649 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_double\enteindex_double\enterindex_doulbe.c
+
+1527424712 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_double\enteindex_double\print_double.c
+
+1527426807 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_double\equal_double\equal_double.c
+	<math.h>
+
+1527426807 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_double\equal_double\notequal_doulbe.c
+	<math.h>
+
+1527426842 source:d:\onedrive\projects\codeblocks\final assignment\final assignment_double\equal_double\main.c
+	<stdio.h>
+	<stdlib.h>
+
