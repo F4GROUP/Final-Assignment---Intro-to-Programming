@@ -21,8 +21,6 @@ int subtraction_INT(int matrix1[30][30], int matrix2[30][30], int R1, int C1, in
 void transpose_INT(int matrix[30][30], int R, int C, int transpose[30][30]);
 void delCol_INT(int matrix[30][30],int R, int C, int dC, int temp[30][30]);
 void delRow_INT(int matrix[30][30],int R, int C, int dR, int temp[30][30]);
-int MaxOfMatrix(int a[30][30], int R, int C);
-int MinOfMatrix(int a[30][30], int R, int C)
 
 //basis comparison between two matrices
 int contain_INT(int m1[30][30],int m2[30][30],int R1,int C1,int R2,int C2);

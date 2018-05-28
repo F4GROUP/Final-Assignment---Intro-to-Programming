@@ -21,8 +21,10 @@ int subtraction_DOUBLE(double matrix1[30][30], double matrix2[30][30], int R1, i
 void transpose_DOUBLE(double matrix[30][30], int R, int C, double transpose[30][30]);
 void delCol_DOUBLE(double matrix[30][30],int R, int C, int dC, double temp[30][30]);
 void delRow_DOUBLE(double matrix[30][30],int R, int C, int dR, double temp[30][30]);
+double MaxOfMatrix(double a[30][30], int R, int C)
+double MinOfMatrix(double a[30][30], int R, int C)
 
-//basis comparison between two matrices
+//basic comparison between two matrices
 int contain_DOUBLE(double m1[30][30],double m2[30][30],int R1,int C1,int R2,int C2);
 int symmetric_DOUBLE(double matrix[30][30], int R, int C);
 int thesame_DOUBLE(double matrix1[30][30], double matrix2[30][30], int R1, int C1, int R2, int C2);
