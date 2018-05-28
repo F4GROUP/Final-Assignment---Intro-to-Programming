@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1527363823 source:d:\onedrive\projects\codeblocks\final assignment\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1525183934 source:d:\onedrive\projects\codeblocks\final assignment\main\gotoxy.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527362898 source:d:\onedrive\projects\codeblocks\final assignment\main\basic_function.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1525184996 source:d:\onedrive\projects\codeblocks\final assignment\main\thesame.c
+	<stdio.h>
+	<stdlib.h>
+
+1527363480 source:d:\onedrive\projects\codeblocks\final assignment\main\main logo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527363732 source:d:\onedrive\projects\codeblocks\final assignment\main\selection.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527526606 source:d:\onedrive\github\final-assignment---intro-to-programming\final assignment\main\gotoxy.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527527875 source:d:\onedrive\github\final-assignment---intro-to-programming\final assignment\main\main logo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527531694 source:d:\onedrive\github\final-assignment---intro-to-programming\final assignment\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527531597 source:d:\onedrive\github\final-assignment---intro-to-programming\final assignment\main\about.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1527531720 source:d:\onedrive\github\final-assignment---intro-to-programming\final assignment\main\control.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
