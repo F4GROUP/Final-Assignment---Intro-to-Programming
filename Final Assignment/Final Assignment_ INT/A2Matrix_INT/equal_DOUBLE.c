@@ -2,7 +2,7 @@
 #include "A2Matrix_INT.h"
 int eql(double A, double B)
 {
-    int E=0.0000001; // E is the precision
+    double E=0.0000001; // E is the precision
 
     if(fabs(A-B)<=E) return 1;
     else return 0;
@@ -12,7 +12,7 @@ int eql(double A, double B)
 
 int Neql(double A, double B)
 {
-    int E=0.0000001; // E is the precision
+    double E=0.0000001; // E is the precision
 
     if(fabs(A-B)<=E) return 0;
     else return 1;
