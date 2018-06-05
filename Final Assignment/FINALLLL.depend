@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1527961902 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\about.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1527964006 d:\onedrive\projects\codeblocks\final assignment finallll\finallll\a2matrix.h
+	"A2Matrix.h"
+
+1527957058 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\add_sub_product_double.c
+	"A2Matrix.h"
+
+1527958228 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\add_sub_product_int.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1527955582 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\contain_double.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix.h"
+
+1527958756 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\contain_int.c
+	"A2Matrix.h"
+
+1528042539 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\control.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1527958757 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\delrccofactor_int.c
+	"A2Matrix.h"
+
+1527954917 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\delrccofactor_double.c
+	"A2Matrix.h"
+
+1527954945 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\det_double.c
+	<math.h>
+	"A2Matrix.h"
+
+1527958779 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\det_int.c
+	<math.h>
+	"A2Matrix.h"
+
+1527954956 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\equal_double.c
+	<math.h>
+	"A2Matrix.h"
+
+1527963417 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1527954988 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\matrixio_int.c
+	"A2Matrix.h"
+
+1527954997 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\minmax_double.c
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\minmax_int.c
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\relationfactor_int.c
+	"A2Matrix.h"
+
+1527957166 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\matrixio_double.c
+	"A2Matrix.h"
+
+1527955025 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\symmetric_double.c
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\symmetric_int.c
+	"A2Matrix.h"
+
+1527955036 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\thesame_double.c
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\thesame_int.c
+	"A2Matrix.h"
+
+1527955048 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\transpose_double.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\transpose_int.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix.h"
+
+1527955061 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1527957612 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\relationfactor_double.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1527957732 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\matrixio_char.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1528037341 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\addsubproduct.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1528041512 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\contain.c
+	"A2Matrix.h"
+
+1527958757 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\delrccofactor.c
+	"A2Matrix.h"
+
+1528039167 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\det.c
+	<math.h>
+	"A2Matrix.h"
+
+1527954956 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\equal.c
+	<math.h>
+	"A2Matrix.h"
+
+1528037106 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\matrixio.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\minmax.c
+	"A2Matrix.h"
+
+1528041825 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\relationfactor.c
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\symmetry.c
+	"A2Matrix.h"
+
+1527963169 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\thesame.c
+	"A2Matrix.h"
+
+1527958900 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\transpose.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix.h"
+
+1528042177 source:d:\onedrive\projects\codeblocks\final assignment finallll\finallll\userguide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528044416 source:d:\google drive\f4\finallll\about.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528044081 d:\google drive\f4\finallll\a2matrix.h
+	"A2Matrix.h"
+
+1528037341 source:d:\google drive\f4\finallll\addsubproduct.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1528043956 source:d:\google drive\f4\finallll\control.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1527958757 source:d:\google drive\f4\finallll\delrccofactor.c
+	"A2Matrix.h"
+
+1528042870 source:d:\google drive\f4\finallll\det.c
+	<math.h>
+	"A2Matrix.h"
+
+1527954956 source:d:\google drive\f4\finallll\equal.c
+	<math.h>
+	"A2Matrix.h"
+
+1527963417 source:d:\google drive\f4\finallll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528043882 source:d:\google drive\f4\finallll\matrixio.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1527958900 source:d:\google drive\f4\finallll\minmax.c
+	"A2Matrix.h"
+
+1527958900 source:d:\google drive\f4\finallll\symmetry.c
+	"A2Matrix.h"
+
+1527963169 source:d:\google drive\f4\finallll\thesame.c
+	"A2Matrix.h"
+
+1527958900 source:d:\google drive\f4\finallll\transpose.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix.h"
+
+1528044417 source:d:\google drive\f4\finallll\userguide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528044517 source:d:\google drive\f4\finallll\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528041512 source:d:\google drive\f4\finallll\contain.c
+	"A2Matrix.h"
+
+1528041825 source:d:\google drive\f4\finallll\relationfactor.c
+	"A2Matrix.h"
+
+1528037341 source:d:\google\f4\finallll\addsubproduct.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1528044081 d:\google\f4\finallll\a2matrix.h
+	"A2Matrix.h"
+
+1528041512 source:d:\google\f4\finallll\contain.c
+	"A2Matrix.h"
+
+1528043947 source:d:\google\f4\finallll\control.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1527958757 source:d:\google\f4\finallll\delrccofactor.c
+	"A2Matrix.h"
+
+1528042870 source:d:\google\f4\finallll\det.c
+	<math.h>
+	"A2Matrix.h"
+
+1527954956 source:d:\google\f4\finallll\equal.c
+	<math.h>
+	"A2Matrix.h"
+
+1527963417 source:d:\google\f4\finallll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528037106 source:d:\google\f4\finallll\matrixio.c
+	<stdio.h>
+	"A2Matrix.h"
+
+1527958900 source:d:\google\f4\finallll\minmax.c
+	"A2Matrix.h"
+
+1528041825 source:d:\google\f4\finallll\relationfactor.c
+	"A2Matrix.h"
+
+1527958900 source:d:\google\f4\finallll\symmetry.c
+	"A2Matrix.h"
+
+1527963169 source:d:\google\f4\finallll\thesame.c
+	"A2Matrix.h"
+
+1527958900 source:d:\google\f4\finallll\transpose.c
+	<stdio.h>
+	<stdlib.h>
+	"A2Matrix.h"
+
+1528044417 source:d:\google\f4\finallll\userguide.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528044517 source:d:\google\f4\finallll\welcome.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+
+1528119821 source:d:\google\f4\finallll\about.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"A2Matrix.h"
+

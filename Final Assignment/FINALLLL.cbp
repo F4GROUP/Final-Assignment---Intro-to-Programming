@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="FINALLLL" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/FINALLLL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/FINALLLL" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="A2Matrix.h" />
+		<Unit filename="About.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AddSubProduct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Contain.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Control.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DelRCcoFactor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Det.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Equal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MatrixIO.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MinMax.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RelationFactor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Symmetry.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Thesame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Transpose.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="UserGuide.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Welcome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
